@@ -14,7 +14,7 @@
 ### 🔧 Technical Skills:
 
 * JavaScript | React | Node.js | Express.js | MongoDB
-* React Native | Expo | Firebase Auth | Razorpay Payment Gateway
+* React Native 
 * Tailwind CSS | Standard CSS | HTML | Responsive UI/UX
 * Git | GitHub | Version Control
 * DSA (Java) | Aptitude Preparation
