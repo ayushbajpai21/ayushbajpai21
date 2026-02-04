@@ -41,11 +41,11 @@ Currently learning **Generative AI with Python**, focusing on **LLMs, automation
 | Category | Technologies |
 |--------|--------------|
 | **Languages** | JavaScript, Java, Python |
-| **Frontend** | React, React Native, Vite, Tailwind CSS, HTML, CSS |
+| **Frontend** | React Vite, Tailwind CSS, HTML, CSS |
 | **Backend** | Node.js, Express.js, MongoDB, REST APIs |
 | **AI / Gen-AI** | LLM APIs, AI Chatbots, Prompt Engineering |
 | **Tools** | Git, GitHub, VS Code, Postman |
-| **DSA** | Java (LeetCode) |
+
 
 ---
 
