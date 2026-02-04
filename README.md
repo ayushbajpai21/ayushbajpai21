@@ -1,62 +1,67 @@
-<!-- Profile Picture Centered -->
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/ayushbajpai21" alt="Ayush Bajpai" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/ayushbajpai21" width="130" height="130" style="border-radius:50%;" />
 </p>
 
-<!-- Gradient Heading -->
-<h1 align="center" style="background: linear-gradient(90deg, #141e30, #243b55); -webkit-background-clip: text; color: transparent; font-weight: 900;">
-  Hi, I'm Ayush Bajpai 👋
+<!-- NAME -->
+<h1 align="center" style="color:#00ffe1; text-shadow:0 0 12px #00ffe1;">
+  Ayush Bajpai
 </h1>
 
-<!-- Subtitle -->
-<p align="center" style="font-size: 1.15rem; font-weight: 600;">
-  Front-End Engineer | MERN Stack Developer | Gen-AI Learner (Python)
-</p>
-
----
-
-<!-- Tech Badges -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFE1&center=true&vCenter=true&width=600&lines=Front-End+Engineer;MERN+Stack+Developer;Gen-AI+Learner+(Python);Building+AI-Powered+Web+Apps" />
 </p>
 
 ---
 
-## 🚀 What I’m Focused On
+## 🧠 About Me
 
-- 🔭 **Building**: AI-powered web apps & intelligent assistants  
-- 🧠 **Learning**: Generative AI with Python (LLMs, APIs, automation)  
-- ⚙️ **Practicing**: MERN stack backend + scalable frontend patterns  
-- 📚 **DSA**: Java-based problem solving (placement-oriented)  
+🚀 Front-End Engineer & MERN Stack Developer passionate about building **scalable**, **high-performance**, and **AI-powered web applications**.  
+Currently learning **Generative AI with Python**, focusing on **LLMs, automation, and intelligent assistants**.
+
+💼 *Actively preparing for product-based companies & AI-driven roles.*
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack (Recruiter Friendly)
 
-| **Category** | **Technologies** |
-|-------------|------------------|
-| Languages | JavaScript, Java, Python |
-| Frontend | React, React Native, Vite, Tailwind CSS, HTML, CSS |
-| Backend | Node.js, Express.js, MongoDB, REST APIs |
-| AI / Gen-AI | LLM APIs, AI Chatbots, Prompt Engineering (Python) |
-| Tools | Git, GitHub, VS Code, Postman |
-| DSA | Java (LeetCode) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,tailwind,git,docker" />
+</p>
+
+**Keywords for ATS:**  
+`React Developer` · `MERN Stack` · `Frontend Engineer` · `JavaScript` · `Node.js` ·  
+`MongoDB` · `REST APIs` · `Gen AI` · `LLM` · `Python` · `AI Chatbots`
+
+---
+
+## 🧩 What I’m Currently Doing
+
+- 🔭 Building **AI-powered web applications**
+- 🧠 Learning **Generative AI (Python, LLM APIs, automation)**
+- ⚙️ Developing **clean & scalable MERN stack backends**
+
+---
+
+## 🤖 AI / Gen-AI Roadmap (In Progress)
+
+| Level | Focus Area |
+|------|-----------|
+| ✅ Basics | Python, Prompt Engineering, API usage |
+| 🔄 Current | AI Chatbots, LLM APIs, AI + Web Integration |
+| ⏳ Next | LangChain, RAG, Vector Databases |
+| 🎯 Goal | Full-stack AI applications & automation |
 
 ---
 
 ## 🛠️ Featured Projects
 
-| 🚧 Project | 🧠 Description | 🔗 Link |
-|----------|---------------|--------|
-| **Taskify** | Task management app with clean UI & state handling | https://github.com/ayushbajpai21/Taskify |
+| Project | Description | Link |
+|-------|------------|------|
+| **Taskify** | Task management app with modern React UI | https://github.com/ayushbajpai21/Taskify |
 | **AI Assistant** | AI-powered assistant using modern web stack | https://github.com/ayushbajpai21/AI_Assistant |
-| **Foodie AI** | Smart food-related AI web app (deployed) | https://foodie-ai-seven.vercel.app/ |
+| **Foodie AI** | Deployed AI food web app | https://foodie-ai-seven.vercel.app/ |
 
 ---
 
@@ -76,16 +81,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-bajpai21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ayush-bajpai21">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFE1?style=for-the-badge&logo=linkedin&logoColor=000" />
   </a>
   <a href="mailto:bajpai21ayush@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00FFE1?style=for-the-badge&logo=gmail&logoColor=000" />
   </a>
 </p>
 
 ---
 
-<p align="center" style="font-style: italic; color: #6c757d;">
-  Building scalable web apps & exploring the future of AI 🚀
+<p align="center" style="color:#00ffe1; font-style:italic;">
+  ⚡ Building the future with MERN & AI ⚡
 </p>
