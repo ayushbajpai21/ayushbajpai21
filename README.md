@@ -73,8 +73,8 @@ Currently learning **Generative AI with Python**, focusing on **LLMs, automation
 | Project | Description | Link |
 |-------|------------|------|
 | **Taskify** | Task management app with modern React UI | https://github.com/ayushbajpai21/Taskify |
-| **AI Assistant** | AI-powered assistant using modern web stack | https://github.com/ayushbajpai21/AI_Assistant |
-| **Foodie AI** | Deployed AI food web app | https://foodie-ai-seven.vercel.app/ |
+| **Mealzo** | Cloud Kitchen Platform | https://mealzo-six.vercel.app/ |
+| **Omnimart** | Premium ECommerce | https://omnimart-nine.vercel.app/ |
 
 ---
 
